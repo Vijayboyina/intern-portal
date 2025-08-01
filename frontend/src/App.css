@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+section {
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 12px;
+  max-width: 600px;
+  background-color: #f9f9f9;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+}
+
+input {
+  margin: 5px;
+  padding: 8px;
+  width: 200px;
+}
+
+button {
+  padding: 8px 16px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+ul, ol {
+  text-align: left;
+  margin-left: 20%;
+}
